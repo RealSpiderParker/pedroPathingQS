@@ -34,8 +34,8 @@ public class Constants {
             .leftRearEncoderDirection(Encoder.FORWARD)
             .rightFrontEncoderDirection(Encoder.FORWARD)
             .rightRearEncoderDirection(Encoder.FORWARD)
-            .robotWidth(17.625)
-            .robotLength(15.0);
+            .robotWidth(16.0)
+            .robotLength(11.5);
 
     //yourHero's robot stuff ^^
     public static PathConstraints pathConstraints = new PathConstraints(0.99, 100, 1, 1);
